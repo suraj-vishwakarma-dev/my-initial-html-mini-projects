@@ -1,5 +1,4 @@
 # my-initial-html-mini-projects
-# My Initial HTML Mini Projects
 
 These are my very first HTML projects, created just to **practice and learn HTML tags**.  
 I believe the best way to learn is by **doing things practically**, so I am building these mini projects every day.  
